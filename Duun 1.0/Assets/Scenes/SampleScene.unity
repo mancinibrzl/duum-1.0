@@ -411,6 +411,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   oRigidbody2D: {fileID: 791045284}
   velocidadeDoJogador: 5
+  sensibilidadeDoMouse: 200
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
